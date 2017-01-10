@@ -4,4 +4,5 @@ Hopefully this will be the first in a more than year long daily upload of code/b
 working on to compile a web app that includes a database that will allow any student at Rockhurst High School, using his 
 netclassroom login credentials, to access the database. Hopefully I will add features like the ability to view your friends 
 schedule's, what free's teachers have to allow you to better collaborate during school, and better make use of the new free
-periods implemented this year.
+periods implemented this year. I think I also want to add a function that would allow it to integrate with netclassroom or 
+get help from one of my friends to make a native iOS application for the program.
