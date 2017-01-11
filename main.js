@@ -26,4 +26,4 @@ function signOut() {
     });
     $('.g-signin2').show();
     $('#signout').hide();
-}
+} 
