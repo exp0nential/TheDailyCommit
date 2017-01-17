@@ -2,10 +2,9 @@
 if (window.location.hostname === '127.0.0.1') {
     window.location = 'http://localhost:1898';
 }
-
 var auth2;
 
-function appStart(){
+function appStart() {
     gapi.load('auth2', initSigninV2);
 }
 
@@ -26,4 +25,4 @@ function signOut() {
     });
     $('.g-signin2').show();
     $('#signout').hide();
-} 
+}
